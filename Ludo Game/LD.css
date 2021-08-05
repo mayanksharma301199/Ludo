@@ -1,0 +1,257 @@
+#main{
+    margin: auto;
+    width: 600px;
+    height: 600px;
+}
+.divsize{
+    width: 40px;
+    height: 40px;
+    border:1px solid black
+}
+#ly77{
+    background-image: -webkit-linear-gradient(45deg, rgba(237, 28, 28,1) 50%, rgba(33, 217, 13,1) 50%);
+
+}
+#ly79{
+    background-image: -webkit-linear-gradient(-45deg, rgba(237, 28, 28,1) 50%, rgba(23, 13, 214,1) 50%);
+
+}
+#ly97{
+    background-image: -webkit-linear-gradient(-45deg, rgba(33, 217, 13,1) 50%, rgba(237, 230, 12,1) 50%);
+
+}
+#ly99{
+    background-image: -webkit-linear-gradient(-135deg, rgba(237, 230, 12,1) 50%, rgba(23, 13, 214,1) 50%);
+
+}
+.center{
+width: 0px;
+height: 0px;
+border-left: 21px solid rgba(237, 28, 28,1);
+border-top: 21px solid rgba(33, 217, 13,1);
+border-bottom: 21px solid rgba(23, 13, 214,1);
+border-right: 21px solid rgba(237, 230, 12,1);
+}
+.divred{
+    background-color: rgba(237, 28, 28,1);
+}
+.divgreen{
+    background-color: rgba(33, 217, 13,1);
+}
+.divblue{
+    background-color: rgba(23, 13, 214,1);
+}
+.divyellow{
+    background-color: rgba(237, 230, 12,1);
+}
+/* #ly1{
+    
+} */
+#ly2{
+    margin-left: 40px;
+    margin-top: -630px;
+}
+#ly3{
+    margin-left: 80px;
+    margin-top: -630px;
+}
+#ly4{
+    margin-left: 120px;
+    margin-top: -630px;
+}
+#ly5{
+    margin-left: 160px;
+    margin-top: -630px;
+}
+#ly6{
+    margin-left: 200px;
+    margin-top: -630px;
+}
+#ly7{
+    margin-left: 240px;
+    margin-top: -630px;
+}
+#ly8{
+    margin-left: 280px;
+    margin-top: -630px;
+}
+#ly9{
+    margin-left: 320px;
+    margin-top: -630px;
+}
+#ly10{
+    margin-left: 360px;
+    margin-top: -630px;
+}
+#ly11{
+    margin-left: 400px;
+    margin-top: -630px;
+}
+#ly12{
+    margin-left: 440px;
+    margin-top: -630px;
+}
+#ly13{
+    margin-left: 480px;
+    margin-top: -630px;
+}
+#ly14{
+    margin-left: 520px;
+    margin-top: -630px;
+}
+#ly15{
+    margin-left: 560px;
+    margin-top: -630px;
+}
+.redpeaces{
+    width: 20px;
+    height: 20px;
+    background-color: rgba(237, 28, 28,1);
+    text-align: center;
+    position: absolute;
+}
+#red1{
+    margin-left: 50px;
+    margin-top: -577px;
+    cursor: pointer;
+}
+#red2{
+    margin-left: 50px;
+    margin-top: -451px;
+    cursor: pointer;
+}
+#red3{
+    margin-left: 170px;
+    margin-top: -577px;
+    cursor: pointer;
+}
+#red4{
+    margin-left: 170px;
+    margin-top: -451px;
+    cursor: pointer;
+}
+.bluepeaces{
+    width: 20px;
+    height: 20px;
+    background-color: rgba(23, 13, 214,1);
+    text-align: center;
+    position: absolute;
+}
+#blue1{
+    margin-left: 50px;
+    margin-top: -199px;
+    cursor: pointer;
+}
+#blue2{
+    margin-left: 50px;
+    margin-top: -73px;
+    cursor: pointer;
+}
+#blue3{
+    margin-left: 170px;
+    margin-top: -199px;
+    cursor: pointer;
+}
+#blue4{
+    margin-left: 170px;
+    margin-top: -73px;
+    cursor: pointer;
+}
+.greenpeaces{
+    width: 20px;
+    height: 20px;
+    background-color: rgba(33, 217, 13,1);
+    text-align: center;
+    position: absolute;
+}
+#green1{
+    margin-left: 410px;
+    margin-top: -577px;
+    cursor: pointer;
+}
+#green2{
+    margin-left: 410px;
+    margin-top: -451px;
+    cursor: pointer;
+}
+#green3{
+    margin-left: 530px;
+    margin-top: -577px;
+    cursor: pointer;
+}
+#green4{
+    margin-left: 530px;
+    margin-top: -451px;
+    cursor: pointer;
+}
+.yellowpeaces{
+    width: 20px;
+    height: 20px;
+    background-color: rgba(237, 230, 12,1);
+    text-align: center;
+    position: absolute;
+}
+#yellow1{
+    margin-left: 410px;
+    margin-top: -199px;
+    cursor: pointer;
+}
+#yellow2{
+    margin-left: 410px;
+    margin-top: -73px;
+    cursor: pointer;
+}
+#yellow3{
+    margin-left: 530px;
+    margin-top: -199px;
+    cursor: pointer;
+}
+#yellow4{
+    margin-left: 530px;
+    margin-top: -73px;
+    cursor: pointer;
+}
+#diceR{
+    background-image: url("Alea_1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 64px;
+    height: 64px;
+    position: absolute;
+    margin-left: 310px;
+    margin-top: -600px;
+    cursor: pointer;
+}
+#diceB{
+    background-image: url("Alea_3.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 64px;
+    height: 64px;
+    position: absolute;
+    margin-left: 310px;
+    margin-top: -32px;
+    cursor: pointer;
+}
+#diceG{
+    background-image: url("Alea_1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 64px;
+    height: 64px;
+    position: absolute;
+    margin-left: 978px;
+    margin-top: -600px;
+    cursor: pointer;
+}
+#diceY{
+    background-image: url("Alea_1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 64px;
+    height: 64px;
+    position: absolute;
+    margin-left: 978px;
+    margin-top: -32px;
+    cursor: pointer;
+}

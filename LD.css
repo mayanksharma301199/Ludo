@@ -211,47 +211,47 @@ border-right: 21px solid rgba(237, 230, 12,1);
     margin-top: -73px;
     cursor: pointer;
 }
-#diceR{
-    background-image: url("Alea_1.png");
+#diceR {
+    background-image: url(Alea_1.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 64px;
     height: 64px;
-    position: absolute;
-    margin-left: 310px;
-    margin-top: -600px;
+    /* position: absolute; */
+    margin-left: -67px;
+    margin-top: -612px;
     cursor: pointer;
 }
-#diceB{
-    background-image: url("Alea_3.png");
+#diceB {
+    background-image: url(Alea_3.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 64px;
     height: 64px;
-    position: absolute;
-    margin-left: 310px;
-    margin-top: -32px;
+    /* position: absolute; */
+    margin-left: -67px;
+    margin-top: 484px;
     cursor: pointer;
 }
-#diceG{
-    background-image: url("Alea_1.png");
+#diceG {
+    background-image: url(Alea_1.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 64px;
     height: 64px;
-    position: absolute;
-    margin-left: 978px;
-    margin-top: -600px;
+    /* position: absolute; */
+    margin-left: 607px;
+    margin-top: -618px;
     cursor: pointer;
 }
-#diceY{
-    background-image: url("Alea_1.png");
+#diceY {
+    background-image: url(Alea_1.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 64px;
     height: 64px;
-    position: absolute;
-    margin-left: 978px;
-    margin-top: -32px;
+    /* position: absolute; */
+    margin-left: 607px;
+    margin-top: 487px;
     cursor: pointer;
 }
